@@ -1,1 +1,1 @@
-github.com search app based on hooks
+github.com search app based on react-hooks
